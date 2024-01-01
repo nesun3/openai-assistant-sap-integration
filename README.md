@@ -24,11 +24,16 @@ A write-up about this project can be found here:
 ## Solution Diagrams
 ## ![Knowledge Retrieval Tool Flow Diagram](https://github.com/nesun3/openai-assistant-sap-integration/blob/2075927d40b2d33d14d735a37a4046b6f6124ab6/Build%20Knowledge%20Bot%20using%20SAP%20Cloud%20Integration-v1.png)
 
+## Requirements
+ - You will need a SAP Cloud Integration tenant to consume, test and enhance this integration artifacts.
+ - Postman to test the backend APIs.
+ - OpenAI API Key from [OpenAI account](https://platform.openai.com/api-keys).
+
 ## Download and Installation
 This repository contains
 1. [Integration Package](https://github.com/nesun3/openai-assistant-sap-integration/blob/66d9adc9da7fc0b0e5af59ee6d7c66fa2b920b93/build/OpenAI%20Integration%20with%20SAP%20Cloud%20Integration.zip) - Download the Integration package named `OpenAI Integration with SAP Cloud Integration.zip` and import it to your tenant.
 2. [Source Code](https://github.com/nesun3/openai-assistant-sap-integration/tree/66d9adc9da7fc0b0e5af59ee6d7c66fa2b920b93/src) - The unzip or raw file contents of each integration flows.
-3. [Postman Collection](https://github.com/nesun3/table-based-ui-sap-cloud-integration/tree/main/build)- download the corresponding Zip file. Unzip and import the collections and environment.
+3. [Postman Collection](https://github.com/nesun3/openai-assistant-sap-integration/blob/b63ba5709d9e8d8707929870118918cb896c6388/build/postman_collection.zip)- download the corresponding Zip file. Unzip and import the collections and environment.
 
 ## Documentation
 To learn how to use the integration artifacts, please refer to the [user documentation]().
