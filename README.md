@@ -19,7 +19,7 @@ In this project, I will guide you through the process of creating a Movie Expert
 
 *Please note that I have only built the complete backend API development, which can be consumed by any Frontend Framework like Vanilla JS, React, SAP UI5, SAP Build Apps, etc. to create the frontend chat interface. To demonstrate the frontend, I will use Postman and show all necessary APIs that can be consumed by Frontend Framework to create the frontend chat interface.*
 
-A write-up about this project can be found here:
+A write-up about this project can be found here: https://blogs.sap.com/2024/01/01/building-a-knowledge-based-chatbot-with-openais-assistants-api-and-sap-cloud-integration/
 
 ## Solution Diagrams
 ## ![Knowledge Retrieval Tool Flow Diagram](https://github.com/nesun3/openai-assistant-sap-integration/blob/2075927d40b2d33d14d735a37a4046b6f6124ab6/Build%20Knowledge%20Bot%20using%20SAP%20Cloud%20Integration-v1.png)
@@ -36,7 +36,7 @@ This repository contains
 3. [Postman Collection](https://github.com/nesun3/openai-assistant-sap-integration/blob/b63ba5709d9e8d8707929870118918cb896c6388/build/postman_collection.zip)- download the corresponding Zip file. Unzip and import the collections and environment.
 
 ## Documentation
-To learn how to use the integration artifacts, please refer to the [user documentation]().
+To learn how to use the integration artifacts, please refer to the [user documentation](https://blogs.sap.com/2024/01/01/building-a-knowledge-based-chatbot-with-openais-assistants-api-and-sap-cloud-integration/).
 
 ## License
 See the [LICENSE](LICENSE) file for details.
