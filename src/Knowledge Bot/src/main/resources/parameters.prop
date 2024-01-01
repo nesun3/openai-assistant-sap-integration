@@ -1,0 +1,4 @@
+#
+#Mon Jan 01 12:27:34 UTC 2024
+Enable\ Logging?=&lt;&lt;true/false&gt;&gt;
+OPENAI\ API\ KEY=&lt;&lt;Set the name of the credential created in Security Material to store OPENAI_API_KEY&gt;&gt;
