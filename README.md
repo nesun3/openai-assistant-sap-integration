@@ -26,8 +26,8 @@ A write-up about this project can be found here:
 
 ## Download and Installation
 This repository contains
-1. [Integration Package](https://github.com/nesun3/openai-assistant-sap-integration/blob/66d9adc9da7fc0b0e5af59ee6d7c66fa2b920b93/build/OpenAI%20Integration%20with%20SAP%20Cloud%20Integration.zip) - Download the Integration package named `Table-Based UI for SAP Cloud Integration.zip` and import it to your tenant.
-2. [Source Code](https://github.com/nesun3/table-based-ui-sap-cloud-integration/tree/main/src) - The unzip or raw file contents of each integration flows.
+1. [Integration Package](https://github.com/nesun3/openai-assistant-sap-integration/blob/66d9adc9da7fc0b0e5af59ee6d7c66fa2b920b93/build/OpenAI%20Integration%20with%20SAP%20Cloud%20Integration.zip) - Download the Integration package named `OpenAI Integration with SAP Cloud Integration.zip` and import it to your tenant.
+2. [Source Code](https://github.com/nesun3/openai-assistant-sap-integration/tree/66d9adc9da7fc0b0e5af59ee6d7c66fa2b920b93/src) - The unzip or raw file contents of each integration flows.
 3. [Postman Collection](https://github.com/nesun3/table-based-ui-sap-cloud-integration/tree/main/build)- download the corresponding Zip file. Unzip and import the collections and environment.
 
 ## Documentation
