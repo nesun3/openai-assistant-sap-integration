@@ -22,7 +22,7 @@ In this project, I will guide you through the process of creating a Movie Expert
 A write-up about this project can be found here:
 
 ## Solution Diagrams
-## ![Knowledge Retrieval Tool Flow Diagram]()
+## ![Knowledge Retrieval Tool Flow Diagram](https://github.com/nesun3/openai-assistant-sap-integration/blob/2075927d40b2d33d14d735a37a4046b6f6124ab6/Build%20Knowledge%20Bot%20using%20SAP%20Cloud%20Integration-v1.png)
 
 ## Download and Installation
 This repository contains
