@@ -15,7 +15,7 @@ Building a Knowledge-Based Chatbot with OpenAI’s Assistants API and SAP Cloud 
 ## Overview
 This project showcases how to integrate OpenAI’s Assistants API with SAP Cloud Integration. While numerous codes and blogs on this subject predominantly use Python or Node.js, I aim to offer an alternative approach. As in my previous project, I strive to explore unconventional ways to harness the inherent capabilities of SAP Cloud Integration, pushing the boundaries of what can be achieved within this framework. With this goal in mind, I embark on the same journey once again.
 
-In this project, I will guide you through the process of creating a Movie Expert assistant that can answer questions and provide recommendations based on a custom knowledge base from a <<movies_2023.txt>> file.
+In this project, I will guide you through the process of creating a Movie Expert assistant that can answer questions and provide recommendations based on a custom knowledge base from a [movies_2023.txt](https://github.com/nesun3/openai-assistant-sap-integration/blob/507b39ea1c35cc588c54fe5cc7149bb982f2ac7f/samples/movies_2023.txt) file.
 
 *Please note that I have only built the complete backend API development, which can be consumed by any Frontend Framework like Vanilla JS, React, SAP UI5, SAP Build Apps, etc. to create the frontend chat interface. To demonstrate the frontend, I will use Postman and show all necessary APIs that can be consumed by Frontend Framework to create the frontend chat interface.*
 
