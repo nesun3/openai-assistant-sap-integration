@@ -21,6 +21,9 @@ In this project, I will guide you through the process of creating a Movie Expert
 
 A write-up about this project can be found here: https://blogs.sap.com/2024/01/01/building-a-knowledge-based-chatbot-with-openais-assistants-api-and-sap-cloud-integration/
 
+> [!IMPORTANT]
+You can use the prototype to create your own AI assistant capable of accepting user questions and providing responses based on the knowledge base of your document.
+
 ## Solution Diagrams
 ## ![Knowledge Retrieval Tool Flow Diagram](https://github.com/nesun3/openai-assistant-sap-integration/blob/2075927d40b2d33d14d735a37a4046b6f6124ab6/Build%20Knowledge%20Bot%20using%20SAP%20Cloud%20Integration-v1.png)
 
@@ -36,7 +39,22 @@ This repository contains
 3. [Postman Collection](https://github.com/nesun3/openai-assistant-sap-integration/blob/b63ba5709d9e8d8707929870118918cb896c6388/build/postman_collection.zip)- download the corresponding Zip file. Unzip and import the collections and environment.
 
 ## Documentation
-To learn how to use the integration artifacts, please refer to the [user documentation](https://blogs.sap.com/2024/01/01/building-a-knowledge-based-chatbot-with-openais-assistants-api-and-sap-cloud-integration/).
+To learn how to use the integration artifacts, please refer to the [blog](https://blogs.sap.com/2024/01/01/building-a-knowledge-based-chatbot-with-openais-assistants-api-and-sap-cloud-integration/) for step by step guide.
+
+## Features
+ - No Chunking, no embeddings, and no vector database are required.
+ - Your own AI assistant capable of accepting user questions and providing responses based on the knowledge base of your document.
+
+## Limitations and Future Work
+ - Refer to the OpenAI documentation to understand the [limitations](https://platform.openai.com/docs/assistants/how-it-works/limitations). Please note that these limitations are subject to change as the API is still in beta and OpenAI is actively working on adding more functionality. Therefore, be sure to keep up with the latest developments by exploring the Assistant API docs frequently.
+
+
+## How to obtain support
+
+[Create an issue]( https://github.com/nesun3/openai-assistant-sap-integration/issues) in this repository if you find a bug or have questions about the content.
+
+For additional support, ask a question in the [Comment section](https://blogs.sap.com/2024/01/01/building-a-knowledge-based-chatbot-with-openais-assistants-api-and-sap-cloud-integration/).
+
 
 ## License
 See the [LICENSE](LICENSE) file for details.
